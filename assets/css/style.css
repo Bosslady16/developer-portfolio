@@ -1,0 +1,73 @@
+h1 {
+	color: #273746;
+	font-size: 38px;
+	font-family: 'Lora', serif;
+	font-weight: bold;
+	margin-bottom: 0;
+	margin-top: 55px;
+}
+body {
+	background-image: url(../images/bg.jpg); 
+	background-image: opacity: 0.5;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	font-family: 'Ovo', sans-serif;
+	height: 100vh;
+}	
+
+h2 {
+	font-size: 18px;
+	margin-top: 0;
+	margin-bottom: 30px;
+	color: #F9EBEA;
+	background-color: #17202A;
+}
+
+.bio {
+	color: #212F3C;
+	font-size: 18px;
+	font-weight: bold;
+	outline-width: 400px;
+
+}
+.me {
+	height: 200px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: pink;
+	margin-top: 65px;
+	margin-bottom: 30px;
+
+}
+.about {
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+div.transbox {
+    margin: 0px;
+    background-color: #ffffff;
+    border: 5px solid pink;
+    opacity: 0.7;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+.social{
+	color: #273746;
+	font-size: 16px;
+	font-weight: normal;
+	width: 450px;
+	margin-top: 170px;
+}
+.fb{
+	margin-left: 10px;
+	height: 30px;
+	margin-top: 0px;
+}
